@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ColoniaLangostasMutantes()
+comment1.params=
+comment1.target=void\ reproduccionEnLaColonia()
+comment2.params=
+comment2.target=void\ reproduccion()
+comment3.params=
+comment3.target=char\ tenerCria()
+comment4.params=
+comment4.target=int\ ejemplaresColonia()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

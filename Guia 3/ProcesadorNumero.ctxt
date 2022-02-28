@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=int\ sumaDig(int)
+comment1.params=n\ d
+comment1.target=boolean\ estaDig(int,\ int)
+comment2.params=n
+comment2.target=boolean\ esCreciente(int)
+comment3.params=n
+comment3.target=boolean\ esPerfecto(int)
+comment4.params=n\ d
+comment4.target=int\ contadorDig(int,\ int)
+comment5.params=n
+comment5.target=int\ mayorDigito(int)
+comment6.params=n
+comment6.target=boolean\ todosImpares(int)
+numComments=7

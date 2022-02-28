@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=int\ primer(int)
+comment1.params=n\ m
+comment1.target=int\ ultimaPosicion(int,\ int)
+comment10.params=n
+comment10.target=int\ sumaDeProductos(int)
+comment2.params=n
+comment2.target=int\ sumaSec(int)
+comment3.params=n\ num
+comment3.target=boolean\ estaNum(int,\ int)
+comment4.params=n
+comment4.target=boolean\ esCreciente(int)
+comment5.params=n\ num
+comment5.target=int\ contadorNum(int,\ int)
+comment6.params=n
+comment6.target=int\ mayorNum(int)
+comment7.params=n
+comment7.target=int\ mayorPar(int)
+comment8.params=n
+comment8.target=int\ contarPerfectos(int)
+comment9.params=n
+comment9.target=boolean\ dosTodosImpares(int)
+numComments=11

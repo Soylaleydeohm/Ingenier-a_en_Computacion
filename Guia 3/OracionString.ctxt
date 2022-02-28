@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ cantLetras()
+comment1.params=c
+comment1.target=boolean\ esLetra(char)
+comment2.params=
+comment2.target=int\ cantPalabras()
+comment3.params=ch
+comment3.target=int\ cantPalabrasLetra(char)
+comment4.params=
+comment4.target=int\ palabraMasLarga()
+numComments=5

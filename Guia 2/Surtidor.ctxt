@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Surtidor()
+comment1.params=
+comment1.target=void\ llenarDepositoGasoil()
+comment2.params=
+comment2.target=void\ llenarDepositoSuper()
+comment3.params=
+comment3.target=void\ llenarDepositoPremium()
+comment4.params=litG
+comment4.target=void\ extraerGasoil(int)
+comment5.params=litS
+comment5.target=void\ extraerSuper(int)
+comment6.params=litP
+comment6.target=void\ extraerPremium(int)
+comment7.params=
+comment7.target=int\ obtenerLitrosGasoil()
+comment8.params=
+comment8.target=int\ obtenerLitrosSuper()
+comment9.params=
+comment9.target=int\ obtenerLitrosPremium()
+numComments=10
