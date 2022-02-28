@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=c
+comment0.target=Ciudad(int)
+comment1.params=c\ p\ s
+comment1.target=Ciudad(int,\ int,\ float)
+comment2.params=p
+comment2.target=void\ establecerPoblacion(int)
+comment3.params=sup
+comment3.target=void\ establecerSuperficie(float)
+comment3.text=\r\n\ Completar\ la\ implementacion\ de\ los\ comandos\:\r\n\ \ \ +\ establecerSuperficie\ (sup\:\ real)\r\n\ \ \ +\ aumentarPoblacion\ (cre\:\ entero)\r\n
+comment4.params=cre
+comment4.target=void\ aumentarPoblacion(int)
+comment5.params=
+comment5.target=int\ obtenerCP()
+comment6.params=
+comment6.target=int\ obtenerPoblacion()
+comment6.text=\r\n\ Completar\ la\ implementacion\ de\ las\ consultas\:\r\n\ \ \ +\ obtenerPoblacion()\:\ entero\r\n\ \ \ +\ obtenerSuperficie()\:\ real\r\n\ \ \ +\ obtenerDensidad()\:\ real\r\n\ \ \ +\ toString()\:\ String\ \ \ \ \r\n
+comment7.params=
+comment7.target=float\ obtenerSuperficie()
+comment8.params=
+comment8.target=float\ obtenerDensidad()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

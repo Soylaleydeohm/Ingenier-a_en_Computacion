@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=pR
+comment0.target=GUI_LA(PasajesReservados)
+comment1.params=pR
+comment1.target=void\ initGUI(PasajesReservados)
+comment2.params=
+comment2.target=void\ habilitarBotones()
+comment3.params=
+comment3.target=void\ deshabilitarBotones()
+numComments=4

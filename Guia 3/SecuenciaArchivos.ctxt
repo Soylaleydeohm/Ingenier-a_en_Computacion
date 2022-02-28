@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=ruta
+comment0.target=int\ primer(java.lang.String)
+comment1.params=ruta\ m
+comment1.target=int\ ultimaPosicion(java.lang.String,\ int)
+comment2.params=ruta
+comment2.target=int\ sumaSec(java.lang.String)
+comment3.params=ruta\ m
+comment3.target=boolean\ estaNum(java.lang.String,\ int)
+comment4.params=ruta
+comment4.target=boolean\ esCreciente(java.lang.String)
+comment5.params=ruta\ n
+comment5.target=int\ contadorNum(java.lang.String,\ int)
+comment6.params=ruta
+comment6.target=int\ mayorNum(java.lang.String)
+comment7.params=ruta
+comment7.target=int\ mayorPar(java.lang.String)
+comment8.params=ruta
+comment8.target=int\ contarPerfectos(java.lang.String)
+comment9.params=ruta
+comment9.target=boolean\ dosTodosImpares(java.lang.String)
+numComments=10

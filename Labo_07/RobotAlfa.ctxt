@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=nro
+comment0.target=RobotAlfa(int)
+comment1.params=
+comment1.target=void\ armarAuto()
+comment2.params=
+comment2.target=void\ armarCamion()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=int\ vidaUtil()
+comment5.params=
+comment5.target=int\ cantAutos()
+comment6.params=
+comment6.target=int\ cantCamiones()
+numComments=7

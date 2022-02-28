@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=int\ mcd(int,\ int)
+comment0.text=\r\n\ C\u00F3mputo\ del\ M\u00E1ximo\ Com\u00FAn\ Divisor\ seg\u00FAn\ el\ algoritmo\ de\ Euclides.\ Asume\ x\ e\ y\ \!\=\ 0\r\n
+numComments=1

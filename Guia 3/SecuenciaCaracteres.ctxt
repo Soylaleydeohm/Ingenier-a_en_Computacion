@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=boolean\ dosVocales(int)
+comment1.params=v
+comment1.target=boolean\ esVocal(char)
+comment2.params=n\ ch
+comment2.target=int\ contadorChar(int,\ char)
+comment3.params=n
+comment3.target=boolean\ todasLetras(int)
+comment4.params=n
+comment4.target=int\ maxDistancia(int)
+comment5.params=n
+comment5.target=boolean\ tieneAlgunReflejo(int)
+comment6.params=n
+comment6.target=java.lang.String\ explosiva(int)
+numComments=7
