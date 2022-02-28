@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=c\ p\ f\ b
+comment0.target=ReservaPasaje(java.lang.String,\ java.lang.String,\ int,\ int)
+comment1.params=
+comment1.target=void\ confirmar()
+comment2.params=
+comment2.target=java.lang.String\ obtenerPasajero()
+comment3.params=
+comment3.target=java.lang.String\ obtenerCodigo()
+comment4.params=
+comment4.target=int\ obtenerButaca()
+comment5.params=
+comment5.target=int\ obtenerFila()
+comment6.params=
+comment6.target=boolean\ obtenerConfirmada()
+numComments=7

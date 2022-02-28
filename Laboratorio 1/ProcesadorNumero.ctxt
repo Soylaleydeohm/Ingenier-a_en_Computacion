@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=n\ d
+comment0.target=boolean\ estaDigito(int,\ int)
+comment0.text=\ \r\n\ Retorna\ true\ si\ y\ solo\ si\ d\ es\ un\ d\u00EDgito\ del\ n\u00FAmero\ n\ \r\n
+comment1.params=n
+comment1.target=int\ sumaDigitos(int)
+comment1.text=\ \r\n\ Retorna\ la\ suma\ de\ los\ d\u00EDgitos\ del\ n\u00FAmero\ n\ \r\n
+comment2.params=n
+comment2.target=int\ sumaP(int)
+comment2.text=\ \r\n\ Retorna\ la\ suma\ de\ los\ d\u00EDgitos\ pares\ del\ n\u00FAmero\ n\ \r\n
+comment3.params=n
+comment3.target=int\ contarDigitos(int)
+comment3.text=\ \r\n\ Retorna\ la\ cantidad\ de\ d\u00EDgitos\ del\ n\u00FAmero\ n\ \r\n
+comment4.params=n\ m
+comment4.target=boolean\ esSumaMayor(int,\ int)
+comment4.text=\ \r\n\ Retorna\ true\ si\ y\ solo\ si\ la\ suma\ de\ los\ d\u00EDgitos\ de\ n\ es\ mayor\ a\ m\r\n
+comment5.params=n
+comment5.target=int\ contarDigitosPares(int)
+comment5.text=\ \r\n\ Retorna\ la\ cantidad\ de\ d\u00EDgitos\ pares\ del\ n\u00FAmero\ n\ \r\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

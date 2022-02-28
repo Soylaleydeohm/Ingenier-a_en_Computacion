@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=PasajesReservados(int)
+comment1.params=r
+comment1.target=void\ insertar(ReservaPasaje)
+comment2.params=r
+comment2.target=void\ eliminar(ReservaPasaje)
+comment3.params=n
+comment3.target=void\ correrUno(int)
+comment4.params=
+comment4.target=boolean\ estaLlena()
+comment5.params=
+comment5.target=boolean\ hayReservas()
+comment6.params=p
+comment6.target=ReservaPasaje\ obtenerElemento(int)
+comment7.params=p
+comment7.target=ReservaPasaje\ recuperarElemento(java.lang.String)
+numComments=8

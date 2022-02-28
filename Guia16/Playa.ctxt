@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=cap
+comment0.target=Playa(int)
+comment1.params=
+comment1.target=void\ agregarSurtidor()
+comment2.params=
+comment2.target=void\ LlenarDepositosGasoil()
+comment3.params=
+comment3.target=void\ LlenarDepositosSuper()
+comment4.params=
+comment4.target=void\ LlenarDepositosPremium()
+comment5.params=p
+comment5.target=Surtidor\ obtenerSurtidor(int)
+comment6.params=
+comment6.target=int\ obtenerCantidad()
+numComments=7
