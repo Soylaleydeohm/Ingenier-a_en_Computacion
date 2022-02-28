@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=o
+comment0.target=Oracion(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ editarTexto()
+comment2.params=or\ p
+comment2.target=java.lang.String\ justificar(java.lang.String,\ int)
+comment3.params=orac
+comment3.target=int\ contarPalabras(java.lang.String)
+numComments=4

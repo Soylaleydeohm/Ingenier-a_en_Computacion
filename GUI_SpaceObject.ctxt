@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=o
+comment0.target=GUI_SpaceObject(Lista)
+comment1.params=o
+comment1.target=void\ initGUI(Lista)
+comment2.params=
+comment2.target=void\ crearPanel1()
+comment3.params=
+comment3.target=void\ crearComboBox()
+comment4.params=
+comment4.target=void\ crearPanelInfo()
+comment5.params=
+comment5.target=void\ ocultarComboBox()
+numComments=6

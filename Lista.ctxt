@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Lista()
+comment1.params=
+comment1.target=void\ agregarElementos()
+comment2.params=
+comment2.target=int\ obtenerCantidad()
+comment3.params=pos
+comment3.target=ObjetoCeleste\ obtenerElemento(int)
+comment4.params=name
+comment4.target=ObjetoCeleste\ obtenerElemento(java.lang.String)
+numComments=5
