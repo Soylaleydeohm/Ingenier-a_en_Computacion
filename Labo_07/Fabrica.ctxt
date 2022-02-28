@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=max
+comment0.target=Fabrica(int)
+comment1.params=r
+comment1.target=void\ asignar(Robot)
+comment1.text=\r\n\ Es\ responsabilidad\ del\ cliente\ controlar\ que\ haya\ lugar\ antes\ de\ asignar\ un\ Robot.\r\n
+comment2.params=r
+comment2.target=void\ desasignar(Robot)
+comment3.params=
+comment3.target=int\ capacidadTotal()
+comment4.params=
+comment4.target=int\ capacidadOcupada()
+comment5.params=r
+comment5.target=boolean\ estaRobot(Robot)
+comment6.params=pos
+comment6.target=Robot\ robotEnPosicion(int)
+comment6.text=\r\n\ El\ cliente\ es\ responsable\ de\ validar\ que\ la\ posicion\ sea\ valida\r\n\ 0\ <\=\ pos\ <\ capacidadOcupada()\r\n
+comment7.params=n\ vu
+comment7.target=boolean\ existenNRobotsVU(int,\ int)
+comment7.text=\r\n\ \r\n\ @todo\:\ Implementar\ las\ siguientes\ consultas\:\r\n\ \r\n\ \ +\ existenNRobotsVU(n\:\ int,\ vu\:\ int)\:\ boolean\r\n\ \ \ \ \ |_\ decide\ si\ existen\ n\ robots\ con\ una\ vida\ util\ mayor\ a\ vu.\r\n\ \ \ \ \ \ \r\n\ \ +\ equals(otra\:\ Fabrica)\:\ boolean\r\n\ \ \ \ \ |_\ decide\ si\ dos\ colecciones\ son\ iguales,\ comparando\ los\ elementos\ por\ identidad\ (nroSerie)\r\n\r\n
+comment8.params=otra
+comment8.target=boolean\ equals(Fabrica)
+numComments=9
