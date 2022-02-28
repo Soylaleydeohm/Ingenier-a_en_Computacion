@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Beta()
+comment1.params=x
+comment1.target=java.lang.String\ p(int)
+comment2.params=x
+comment2.target=java.lang.String\ q(java.lang.String)
+numComments=3
