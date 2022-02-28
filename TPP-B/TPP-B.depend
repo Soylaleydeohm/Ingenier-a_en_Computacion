@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1633655024 source:/home/virginia/Documentos/UNS/programas_en_c/orga/TPP-B/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
