@@ -10,3 +10,5 @@ ED (Data Structures)
 OC (Computer Organization)
 
 EBD (Databases)
+
+OS (Operating Systems)
